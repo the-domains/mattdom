@@ -1,0 +1,18 @@
+analytics: {}
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.030230849828503548
+  lightness: 0.5368372187734621
+  rhythmicContrast: 0.8282671724594095
+  saturation: 0.7138348603848585
+cta: {}
+layout_spectrum: 0.6474233009871839
+name: mattdom
+opengraph: {}
+purpose: {}
+typography_spectrum: 0.7435746817405372
