@@ -1,4 +1,19 @@
-analytics: {}
+name: mattdom
+favicon: null
+layout_spectrum: 0.990953
+typography_spectrum: 0.7435746817405372
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
   brandColors:
     - '#71A7FE'
@@ -8,11 +23,9 @@ color:
     - '#CEAFC0'
   brandStrength: 0.030230849828503548
   lightness: 0.5368372187734621
-  rhythmicContrast: 0.8282671724594095
   saturation: 0.7138348603848585
-cta: {}
-layout_spectrum: 0.990953
-name: mattdom
-opengraph: {}
-purpose: {}
-typography_spectrum: 0.7435746817405372
+  rhythmicContrast: 0.8282671724594095
+purpose:
+  - name: null
+    item: null
+    url: null
